@@ -5,7 +5,7 @@ import (
 	"errors"
 	"reflect"
 
-	. "github.com/mlabouardy/dialogflow-go-client/models"
+	. "github.com/ledongthuc/dialogflow-go-client/models"
 	uuid "github.com/satori/go.uuid"
 )
 

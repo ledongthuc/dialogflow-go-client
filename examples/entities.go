@@ -5,7 +5,7 @@ import (
 	"log"
 
 	. "github.com/mlabouardy/dialogflow-go-client"
-	. "github.com/mlabouardy/dialogflow-go-client/models"
+	. "github.com/ledongthuc/dialogflow-go-client/models"
 )
 
 func main() {

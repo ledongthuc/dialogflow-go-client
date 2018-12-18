@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	. "github.com/mlabouardy/dialogflow-go-client/models"
+	. "github.com/ledongthuc/dialogflow-go-client/models"
 )
 
 type Request struct {
